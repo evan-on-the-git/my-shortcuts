@@ -1,0 +1,2 @@
+# my-shortcuts
+yes
